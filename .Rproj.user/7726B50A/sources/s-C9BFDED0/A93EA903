@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574890709312.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1740329048",
+    "id" : "A93EA903",
+    "lastKnownWriteTime" : 1574891625,
+    "last_content_update" : 1574891625082,
+    "path" : "~/Desktop/Research/ADAM/ADAM/NEW_PACKAGE/ADaM/R/data.R",
+    "project_path" : "R/data.R",
+    "properties" : {
+        "cursorPosition" : "33,30",
+        "scrollLine" : "5"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

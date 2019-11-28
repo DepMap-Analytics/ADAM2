@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572446577326.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C68FAADB",
+    "lastKnownWriteTime" : 1574867941,
+    "last_content_update" : 1574867941437,
+    "path" : "~/Desktop/Research/ADAM/ADAM/NEW_PACKAGE/ADaM/R/ADAM.R",
+    "project_path" : "R/ADAM.R",
+    "properties" : {
+        "cursorPosition" : "56,238",
+        "scrollLine" : "41"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
